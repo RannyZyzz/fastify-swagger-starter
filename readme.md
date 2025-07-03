@@ -1,5 +1,5 @@
 
-````markdown
+
 # 🧪 Fastify + Zod + Swagger API Boilerplate
 
 Este é um experimento para refatorar projetos originalmente desenvolvidos com **Express** para utilizar o **Fastify**, ganhando mais performance e uma integração elegante com **Swagger** para geração automática de documentação da API.
@@ -24,7 +24,7 @@ Este é um experimento para refatorar projetos originalmente desenvolvidos com *
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    cd nome-do-repositorio
-````
+    ```
 
 2. Instale as dependências:
 
@@ -35,7 +35,7 @@ Este é um experimento para refatorar projetos originalmente desenvolvidos com *
 3. Inicie o servidor de desenvolvimento:
 
    ```bash
-   npm run dev
+    npm run dev
    ```
 
 4. Acesse a aplicação:
